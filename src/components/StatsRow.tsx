@@ -2,7 +2,7 @@
 import React from 'react'
 import {View} from "@nodegui/react-nodegui"
 
-export const StatsContainer = (props: { children: React.ReactNode; }) => {
+export const StatsRow = (props: { children: React.ReactNode; }) => {
   return (
       <View id="systemStats" styleSheet={styleSheet}>
           {props.children}

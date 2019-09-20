@@ -37,5 +37,6 @@ const styleSheet = `
   #headText {
       margin: 5px 5px 5px 0;
       font-size: 18px;
+      color: white;
   }
 `

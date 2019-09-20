@@ -62,5 +62,6 @@ const statsLabel = `
         font-size: 14px;
         width: 100%;        
         qproperty-alignment: 'AlignCenter';
+        color: white;
     }
 `
