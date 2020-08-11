@@ -9,7 +9,7 @@ import { initialData } from "./helpers/initialData"
 
 // Import Components
 import {StatsRow} from "./components/StatsRow"
-import {InnerContainer} from "./components/InnerContainer"
+import {innerContainer} from "./components/InnerContainer"
 import {StatsColumn} from "./components/StatsColumn"
 
 
